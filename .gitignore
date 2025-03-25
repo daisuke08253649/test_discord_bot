@@ -1,0 +1,28 @@
+# 環境変数
+.env
+
+# 仮想環境
+/myvenv
+venv/
+env/
+
+# Pythonキャッシュファイル
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ログファイル
+*.log
+
+# IDEの設定ファイル
+.vscode/
+.idea/
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# 配布/パッケージング
+dist/
+build/
+*.egg-info/
